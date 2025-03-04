@@ -1,5 +1,4 @@
-# News-App-Api-Project
-# News App with Tkinter and News API 📰
+# News App Api Project
 
 This repository contains the source code for a simple desktop News Application built using Python's Tkinter library and the News API. It allows users to browse and read the latest news headlines and articles directly from their desktop.
 
