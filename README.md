@@ -23,13 +23,13 @@ This repository contains the source code for a simple desktop News Application b
 1.  **Clone this repository:**
 
     ```bash
-    git clone [your_repository_url]
+    git clone [https://github.com/Rraj37/News-App-Api-Project]
     ```
 
 2.  **Navigate to the project directory:**
 
     ```bash
-    cd [your_repository_name]
+    cd [News App Api Project]
     ```
 
 3.  **Install the required dependencies:**
@@ -54,10 +54,9 @@ This repository contains the source code for a simple desktop News Application b
 6.  **Run the application:**
 
     ```bash
-    python news_app.py
+    python News App.py
     ```
 
-    (Replace `news_app.py` with the actual name of your main Python file.)
 
 ## Usage 📝
 
@@ -72,7 +71,7 @@ Contributions are welcome! If you find any bugs or want to add new features, ple
 
 ## Contact 📧
 
-If you have any questions or feedback, you can reach me at [Your Email Address].
+If you have any questions or feedback, you can reach me at rishabhraj1021@gmail.com.
 
 ## Happy News Reading! 📰
 
